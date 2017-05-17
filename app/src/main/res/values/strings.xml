@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IReader</string>
+    <string name="string_splash_timer">%1$d秒跳转</string>
+    <string name="string_splash_title">电子书阅读器</string>
+</resources>
